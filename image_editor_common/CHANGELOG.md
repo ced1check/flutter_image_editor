@@ -1,3 +1,12 @@
+## 1.2.0
+
+ - **FIX**: error for new sdk.
+ - **FEAT**: upgrade android sdk to 35.
+
+## 1.1.2
+
+ - **FIX**: add android.compileOptions.compatibility, upgrade kotlin version.
+
 # CHANGELOG
 
 ## 1.1.1
